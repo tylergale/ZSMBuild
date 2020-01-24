@@ -13,7 +13,7 @@ This modpack is currently based on Minecraft 1.14.4, as its the latest Minecraft
 1. Once the installation is finished, open the folder where it is installed, **and copy across the mods and shaderpacks folder from this repo.**
 1. Make sure your Minecraft has been **configured to at least have 4GB of RAM** to play with!
 
-####Mods in this pack
+#### Mods in this pack
 - Optifine
 - Add Chimneys
 - AI Improvements
