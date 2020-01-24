@@ -9,6 +9,7 @@ This modpack is currently based on Minecraft 1.14.4, as its the latest Minecraft
 
 ### How to install/use
 1. You need an existing Minecraft profile installed.  You can do this via installing the Minecraft Launcher, or use something like ATLauncher. ** Nonetheless, it must be installed **
+1. Download the latest zip file [from our release page](https://github.com/tylergale/ZSMBuild/releases)
 1. Launch the *forge-1.14.4-28.1.116-installer.jar* file, and install the *Client version* (it should auto detect where your Minecraft profile is).
 1. Once the installation is finished, open the folder where it is installed, **and copy across the mods and shaderpacks folder from this repo.**
 1. Make sure your Minecraft has been **configured to at least have 4GB of RAM** to play with!
